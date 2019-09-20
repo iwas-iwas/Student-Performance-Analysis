@@ -1,6 +1,8 @@
-# View Project: https://nbviewer.jupyter.org/github/iwasscience/Student-Performance-Analysis/blob/master/Student_Performance_Project.ipynb
+# View Project: 
 
-# Student Performance Project - Iwas Iwas
+https://nbviewer.jupyter.org/github/iwasscience/Student-Performance-Analysis/blob/master/Student_Performance_Project.ipynb
+
+# Student Performance Project
 
 ## Tools:
 
