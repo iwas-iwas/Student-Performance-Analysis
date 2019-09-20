@@ -6,7 +6,8 @@ https://nbviewer.jupyter.org/github/iwasscience/Student-Performance-Analysis/blo
 
 ## Motivation:
 
-Analysis of scores from three different exams and a variety of personal, social, and economic factors that have interaction effects upon them. The goal is to see which of those factors contribute to scoring better/worse in exams. This could give students and individual schools helpful insights. In the end, I also predicted if a student scores above or below average based on certain factors.
+Analysis of scores from three different exams and a variety of personal, social, and economic factors that have interaction effects upon them. The goal is to see which of those factors contribute to scoring better/worse in exams. This could give students and individual schools helpful insights. In the end, I also built a classifier that predicts whether a student will score above or below average based on certain factors.
+
 
 ## Tools:
 
