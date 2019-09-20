@@ -10,12 +10,12 @@ pandas, numpy, matplotlib, seaborn
 
 ## Structure:
 
-**- Initial Exploratory Data Analysis and Preprocessing**
+**Initial Exploratory Data Analysis and Preprocessing**
   - Display of basic dataset statistics
   - visualizing average exam distribution
   - preprocessing the data for in depth analysis of the following questions
 
-**-Analysis**
+**Analysis**
   
 1. Do students with parents that have a college degree perform better?
 
@@ -29,10 +29,10 @@ pandas, numpy, matplotlib, seaborn
 
 6. Do people that complete the test preparation course score higher?
 
-**-Predict performance**
+**Predict performance**
 
 - SVM to predict above or below average performance 
 
-**-Conclusion**
+**Conclusion**
 
 - Breaking down the results for the questions in the Analysis 
