@@ -41,3 +41,11 @@ pandas, numpy, matplotlib, seaborn
 **Conclusion**
 
 - Breaking down the results for the questions in the Analysis 
+
+**Next Steps**
+
+- Currently working on a interative dash-plotly dashboard where a user can input the different factors discussed in the project and get's the performance of students as output
+
+
+
+
