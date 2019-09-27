@@ -42,10 +42,17 @@ pandas, numpy, matplotlib, seaborn
 
 - Breaking down the results for the questions in the Analysis 
 
-**Next Steps**
+**Next Steps 27.09.2019**
 
 - Currently working on a interative dash-plotly dashboard where a user can input the different factors discussed in the project and get the performance of the student as output from the SVM I built in the end of the project.
 
 Progress:
+
+- User can Input the different features, I recieve them with linked callbacks, preprocess them and fit them into the SVM.
+
+ToDo:
+
+- Front-end
+- Add more features/data and incraese performance of the model
 
 ![Screenshot](Data/dashboard.png)
