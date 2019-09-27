@@ -44,6 +44,7 @@ pandas, numpy, matplotlib, seaborn
 
 **Next Steps 27.09.2019**
 
+- Add more features/data and incraese performance of the model
 - Currently working on a interative dash-plotly dashboard where a user can input the different factors discussed in the project and get the performance of the student as output from the SVM I built in the end of the project.
 
 Progress:
@@ -53,6 +54,6 @@ Progress:
 ToDo:
 
 - Front-end
-- Add more features/data and incraese performance of the model
+- Plotly Plot for Model Output probabilities (above/below average performance probabilites).
 
 ![Screenshot](Data/dashboard.png)
